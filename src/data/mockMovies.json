@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": ["Action", "Sci-Fi"],
+    "description": "A skilled thief is given a chance at redemption if he can successfully perform inception: planting an idea into someone's mind.",
+    "poster": "https://image.tmdb.org/t/p/w200/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": ["Drama", "Romance"],
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "poster": "https://image.tmdb.org/t/p/w200/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "poster": "https://image.tmdb.org/t/p/w200/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "description": "Batman faces off against the Joker, a criminal mastermind who plunges Gotham into chaos.",
+    "poster": "https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+  "id": 5,
+  "title": "Avatar",
+  "year": 2009,
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+  "poster": "https://image.tmdb.org/t/p/w200/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg"
+},
+
+  {
+    "id": 6,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": ["Action", "Sci-Fi"],
+    "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://image.tmdb.org/t/p/w200/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+  }
+]
